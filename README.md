@@ -53,10 +53,7 @@ jupyter notebook DHC3135_Task_1_Phase_2.ipynb
 
 Example usage:
 
-```text
    ![1000051771](https://github.com/user-attachments/assets/36358bcd-b061-40e5-95c3-61b5a2ffa44c)
-
-```
 
 ## 📌 Requirements
 
