@@ -22,8 +22,8 @@ This repository contains an implementation of a **News Topic Classification mode
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+https://github.com/TahaRehan8/News-Topic-Classifier-Using-BERT.git
+cd https://github.com/TahaRehan8/News-Topic-Classifier-Using-BERT.git
 ```
 
 Install dependencies:
@@ -40,11 +40,6 @@ Run the Jupyter Notebook:
 jupyter notebook DHC3135_Task_1_Phase_2.ipynb
 ```
 
-Or launch the Gradio demo:
-
-```bash
-python app.py
-```
 
 ## 📊 Results
 
@@ -59,7 +54,7 @@ python app.py
 Example usage:
 
 ```text
-![1000051771](https://github.com/user-attachments/assets/5bbfcfc1-3b1e-4e6d-aba9-1af9416374c3)
+   ![1000051771](https://github.com/user-attachments/assets/36358bcd-b061-40e5-95c3-61b5a2ffa44c)
 
 ```
 
